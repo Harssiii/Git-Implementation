@@ -1,0 +1,46 @@
+.fonts{
+
+    font-family: 'Merriweather', serif;
+   
+}
+mark{
+    background-color: beige;
+}
+h1 ,p{
+    font-weight: bold;
+    text-align: center;
+}
+
+
+body{
+
+    background: rgb(202,176,230);
+    background: linear-gradient(90deg, rgba(202,176,230,1) 32%, rgba(154,150,251,1) 63%, rgba(112,218,249,1) 87%);
+}
+h4{
+    font-weight: bold;
+}
+img{
+    width: 200px;
+    height: 200px;
+    display: block;
+    width: auto;
+    margin: auto;
+    border-radius: 20px;
+}
+.img3{
+    width: 100px;
+    height: 150px;
+    display: block;
+    width: auto;
+    margin: auto;
+    border-radius: 20px;
+}
+.img4{
+    width: 300px;
+    height: 350px;
+    display: block;
+    width: auto;
+    margin: auto;
+    border-radius: 20px;
+}
